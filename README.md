@@ -111,7 +111,7 @@ ___服务器端VLESS配置参考如下：___
         "address": "xxxx.herokuapp.com",
         "port": 443,
         "users": [{
-          "id": "6625c1aa-29be-4a78-9860-e0e721cd6ff8",
+          "id": "2e59723b-6abd-48ed-b265-8177673ca9a8",
           "alterId": 64
         }]
       }]
